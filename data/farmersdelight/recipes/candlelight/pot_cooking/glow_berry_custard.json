@@ -15,7 +15,7 @@
         }
     ],
     "container": {
-        "tag": "c:milks"
+        "item": "minecraft:milk_bucket"
     },
     "fabric:load_conditions": [
         {

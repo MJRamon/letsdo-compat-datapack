@@ -9,6 +9,9 @@
         },
         {
             "tag": "c:crops/tomato"
+        },
+        {
+            "item": "minecraft:bowl"
         }
     ],
     "fabric:load_conditions": [

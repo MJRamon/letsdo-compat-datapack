@@ -14,7 +14,7 @@
             "tag": "c:crops/carrot"
         },
         {
-            "tag": "c:foods/raw_rabbit"
+            "item": "minecraft:rabbit"
         }
     ],
     "container": {

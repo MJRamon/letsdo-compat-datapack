@@ -8,7 +8,7 @@
             "item": "minecraft:baked_potato"
         },
         {
-            "tag": "c:foods/raw_rabbit"
+            "item": "minecraft:rabbit"
         },
         {
             "tag": "c:crops/carrot"
@@ -20,11 +20,11 @@
             {
                 "item": "minecraft:red_mushroom"
             }
-        ]
+        ],
+        {
+            "item": "minecraft:bowl"
+        }
     ],
-    "container": {
-        "item": "minecraft:bowl"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
