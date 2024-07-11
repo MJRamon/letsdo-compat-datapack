@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#meadow:milk",
+            "id": "farmersdelight:milk_bottle",
             "required": false
         }
     ]

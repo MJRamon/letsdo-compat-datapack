@@ -1,18 +1,21 @@
 {
     "type": "farmersdelight:cooking",
     "result": {
-        "item": "candlelight:pasta",
-        "count": 4
+        "item": "candlelight:mushroom_soup",
+        "count": 1
     },
     "ingredients": [
         {
-            "tag": "c:food/pastas"
-        },
-        {
-            "item": "candlelight:tomato_soup"
+            "tag": "c:mushrooms"
         },
         {
             "tag": "candlelight:red_effect"
+        },
+        {
+            "tag": "candlelight:butter"
+        },
+        {
+            "tag": "c:milk"
         }
     ],
     "container": {

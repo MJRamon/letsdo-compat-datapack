@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "tag": "bakery:milk"
+            "tag": "c:milk"
         },
         {
             "tag": "bakery:chocolate"

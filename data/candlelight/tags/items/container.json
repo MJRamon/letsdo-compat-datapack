@@ -78,10 +78,6 @@
             "required": false
         },
         {
-            "id": "#c:milks",
-            "required": false
-        },
-        {
             "id": "#c:water_buckets",
             "required": false
         },
