@@ -1,0 +1,21 @@
+{
+  "pack": {
+	"pack_format": 15,
+	"description": "Nexus Let's Do Compat Datapack"
+  },
+	"filter": { "block": [
+		{
+			"namespace": "bakery",
+			"path": "recipes/meadow/cooking/rabbit_stew.json"
+		},
+		{
+			"namespace": "bakery",
+			"path": "recipes/candlelight/pot_cooking/rabbit_stew.json"
+		},
+		{
+			"namespace": "farmersdelight",
+			"path": "recipes/bakery/pot_cooking/rabbit_stew.json"
+		}
+		
+	]}
+}
