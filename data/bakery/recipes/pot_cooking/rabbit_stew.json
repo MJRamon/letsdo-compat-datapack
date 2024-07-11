@@ -1,18 +1,20 @@
 {
-    "type": "candlelight:pot_cooking",
+    "type": "farmersdelight:cooking",
     "result": {
-        "item": "bakery:pudding",
-        "count": 1
+        "item": "minecraft:rabbit_stew"
     },
     "ingredients": [
         {
-            "tag": "c:eggs"
+            "tag": "c:crops/potato"
         },
         {
-            "tag": "bakery:jam"
+            "tag": "c:mushrooms"
         },
         {
-            "tag": "bakery:milk"
+            "tag": "c:crops/carrot"
+        },
+        {
+            "item": "minecraft:rabbit"
         }
     ],
     "container": {
@@ -23,7 +25,8 @@
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "bakery",
-                "candlelight"
+                "minecraft",
+                "farmersdelight"
             ]
         }
     ]
