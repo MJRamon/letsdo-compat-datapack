@@ -3,24 +3,28 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "item": "minecraft:salmon"
     },
     {
-      "item": "meadow:alpine_salt"
+      "tag": "candlelight:white_effect"
     },
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "candlelight:butter"
     }
   ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
   "result": {
-    "item":  "meadow:rennet",
-    "count": 2
+    "item": "candlelight:salmon_wine",
+    "count": 2,
+    "experience": 0.25
   },
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "meadow",
+        "candlelight",
         "farmersdelight"
       ]
     }

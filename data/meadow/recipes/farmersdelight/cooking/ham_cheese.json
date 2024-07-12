@@ -3,17 +3,17 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "item": "meadow:raw_buffalo_meat"
     },
     {
       "item": "meadow:alpine_salt"
     },
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "meadow:cheese"
     }
   ],
   "result": {
-    "item":  "meadow:rennet",
+    "item":  "meadow:sausage_with_cheese",
     "count": 2
   },
   "fabric:load_conditions": [

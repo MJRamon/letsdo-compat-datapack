@@ -3,18 +3,21 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "tag": "meadow:wheat"
     },
     {
-      "item": "meadow:alpine_salt"
+      "tag": "meadow:wheat"
     },
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "meadow:wheat"
+    },
+    {
+      "item": "meadow:wooden_bucket"
     }
   ],
   "result": {
-    "item":  "meadow:rennet",
-    "count": 2
+    "item": "meadow:wooden_grain_milk_bucket",
+    "count": 1
   },
   "fabric:load_conditions": [
     {

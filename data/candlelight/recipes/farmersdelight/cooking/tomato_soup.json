@@ -3,24 +3,27 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "tag": "candlelight:crops/tomato"
     },
     {
-      "item": "meadow:alpine_salt"
+      "item": "minecraft:sugar"
     },
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "candlelight:all_effects"
     }
   ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
   "result": {
-    "item":  "meadow:rennet",
-    "count": 2
+    "item": "candlelight:tomato_soup",
+    "count": 1
   },
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "meadow",
+        "candlelight",
         "farmersdelight"
       ]
     }

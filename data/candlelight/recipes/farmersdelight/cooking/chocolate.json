@@ -3,24 +3,30 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "item": "minecraft:sugar"
     },
     {
-      "item": "meadow:alpine_salt"
+      "item": "minecraft:cocoa_beans"
     },
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "candlelight:milk"
+    },
+    {
+      "tag": "candlelight:butter"
     }
   ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
   "result": {
-    "item":  "meadow:rennet",
+    "item": "candlelight:chocolate",
     "count": 2
   },
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "meadow",
+        "candlelight",
         "farmersdelight"
       ]
     }

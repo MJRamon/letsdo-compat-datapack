@@ -3,24 +3,23 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "item": "bakery:strawberry"
     },
     {
-      "item": "meadow:alpine_salt"
-    },
-    {
-      "item": "minecraft:glass_bottle"
+      "item": "minecraft:sugar"
     }
   ],
+  "container": {
+    "item": "bakery:jar"
+  },
   "result": {
-    "item":  "meadow:rennet",
-    "count": 2
+    "item": "bakery:strawberry_jam"
   },
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "meadow",
+        "bakery",
         "farmersdelight"
       ]
     }

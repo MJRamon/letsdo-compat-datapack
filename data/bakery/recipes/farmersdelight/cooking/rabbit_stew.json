@@ -3,24 +3,29 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "item": "minecraft:potato"
     },
     {
-      "item": "meadow:alpine_salt"
+      "item": "minecraft:brown_mushroom"
     },
     {
-      "item": "minecraft:glass_bottle"
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:rabbit"
     }
   ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
   "result": {
-    "item":  "meadow:rennet",
-    "count": 2
+    "item": "minecraft:rabbit_stew"
   },
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "meadow",
+        "bakery",
         "farmersdelight"
       ]
     }

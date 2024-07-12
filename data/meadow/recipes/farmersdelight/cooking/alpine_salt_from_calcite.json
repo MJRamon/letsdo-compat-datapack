@@ -3,17 +3,14 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "tag": "meadow:water_bottles"
     },
     {
-      "item": "meadow:alpine_salt"
-    },
-    {
-      "item": "minecraft:glass_bottle"
+      "item": "minecraft:calcite"
     }
   ],
   "result": {
-    "item":  "meadow:rennet",
+    "item": "meadow:alpine_salt",
     "count": 2
   },
   "fabric:load_conditions": [

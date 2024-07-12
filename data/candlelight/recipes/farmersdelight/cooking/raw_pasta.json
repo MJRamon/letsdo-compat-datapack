@@ -3,24 +3,21 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "meadow:alpine_salt"
-    },
-    {
-      "item": "minecraft:glass_bottle"
+      "tag": "candlelight:dough"
     }
   ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
   "result": {
-    "item":  "meadow:rennet",
-    "count": 2
+    "item": "candlelight:pasta_raw",
+    "count": 4
   },
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "meadow",
+        "candlelight",
         "farmersdelight"
       ]
     }

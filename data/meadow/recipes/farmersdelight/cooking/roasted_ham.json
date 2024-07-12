@@ -3,17 +3,26 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:egg"
+      "item": "meadow:raw_buffalo_meat"
+    },
+    {
+      "item": "meadow:raw_buffalo_meat"
+    },
+    {
+      "item": "meadow:raw_buffalo_meat"
     },
     {
       "item": "meadow:alpine_salt"
     },
     {
-      "item": "minecraft:glass_bottle"
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
     }
   ],
   "result": {
-    "item":  "meadow:rennet",
+    "item":  "meadow:roasted_ham",
     "count": 2
   },
   "fabric:load_conditions": [

@@ -6,21 +6,24 @@
       "item": "minecraft:egg"
     },
     {
-      "item": "meadow:alpine_salt"
+      "tag": "bakery:jam"
     },
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "bakery:milk"
     }
   ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
   "result": {
-    "item":  "meadow:rennet",
-    "count": 2
+    "item": "bakery:pudding",
+    "count": 1
   },
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "meadow",
+        "bakery",
         "farmersdelight"
       ]
     }
