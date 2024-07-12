@@ -1,13 +1,13 @@
 {
-    "replace": false,
-    "values": [
-        {
-            "id": "#c:wheat",
-            "required": false
-        },
-        {
-            "id": "#c:grain/wheat",
-            "required": false
-        }
-    ]
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:wheat",
+      "required": false
+    },
+    {
+      "id": "#c:grain/wheat",
+      "required": false
+    }
+  ]
 }

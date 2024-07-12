@@ -1,9 +1,9 @@
 {
-    "replace": false,
-    "values": [
-        {
-            "id": "#c:crops/lettuce",
-            "required": false
-        }
-    ]
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:crops/lettuce",
+      "required": false
+    }
+  ]
 }

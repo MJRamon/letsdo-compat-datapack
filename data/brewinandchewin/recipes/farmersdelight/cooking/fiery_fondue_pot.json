@@ -26,7 +26,7 @@
   ],
   "container": {
     "item": "minecraft:cauldron"
-  },,
+  },
   "fabric:load_conditions": [
     {
       "conditon": "fabric:all_mods_loaded",

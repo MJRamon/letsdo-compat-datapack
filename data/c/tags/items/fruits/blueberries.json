@@ -1,13 +1,13 @@
 {
-    "replace": false,
-    "values": [
-        {
-            "id": "croptopia:blueberry",
-            "required": false
-        },
-        {
-            "id": "#c:blueberries",
-            "required": false
-        }
-    ]
+  "replace": false,
+  "values": [
+    {
+      "id": "croptopia:blueberry",
+      "required": false
+    },
+    {
+      "id": "#c:blueberries",
+      "required": false
+    }
+  ]
 }

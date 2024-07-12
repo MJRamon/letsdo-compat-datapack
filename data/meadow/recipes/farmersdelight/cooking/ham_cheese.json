@@ -13,7 +13,7 @@
     }
   ],
   "result": {
-    "item":  "meadow:sausage_with_cheese",
+    "item": "meadow:sausage_with_cheese",
     "count": 2
   },
   "fabric:load_conditions": [
