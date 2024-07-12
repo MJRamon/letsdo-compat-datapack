@@ -16,8 +16,7 @@
     "item": "minecraft:bowl"
   },
   "result": {
-    "item": "bakery:pudding",
-    "count": 1
+    "item": "bakery:pudding"
   },
   "fabric:load_conditions": [
     {

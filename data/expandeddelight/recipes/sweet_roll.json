@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "item": "expandeddelight:ground_cinnamon"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:sweet_roll"
+  }
+}

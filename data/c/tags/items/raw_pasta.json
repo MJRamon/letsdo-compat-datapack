@@ -2,15 +2,15 @@
   "replace": false,
   "values": [
     {
-      "id": "#c:food/cheese",
+      "id": "#candlelight:pasta",
       "required": false
     },
     {
-      "id": "brewinandchewin:scarlet_cheese_wedge",
+      "id": "candlelight:pasta_raw",
       "required": false
     },
     {
-      "id": "brewinandchewin:flaxen_cheese_wedge",
+      "id": "farmersdelight:raw_pasta",
       "required": false
     }
   ]

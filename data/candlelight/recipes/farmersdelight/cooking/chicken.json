@@ -16,8 +16,7 @@
     "item": "minecraft:bowl"
   },
   "result": {
-    "item": "candlelight:chicken",
-    "count": 1,
+    "item": "candlelight:chicken"
   },
   "fabric:load_conditions": [
     {

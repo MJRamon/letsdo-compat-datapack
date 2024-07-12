@@ -16,8 +16,7 @@
     "item": "minecraft:bowl"
   },
   "result": {
-    "item": "candlelight:tomato_soup",
-    "count": 1
+    "item": "candlelight:tomato_soup"
   },
   "fabric:load_conditions": [
     {

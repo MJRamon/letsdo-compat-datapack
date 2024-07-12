@@ -19,8 +19,7 @@
     "item": "minecraft:bowl"
   },
   "result": {
-    "item": "candlelight:chocolate",
-    "count": 2
+    "item": "candlelight:chocolate"
   },
   "fabric:load_conditions": [
     {

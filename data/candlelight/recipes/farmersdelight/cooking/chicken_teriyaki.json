@@ -16,8 +16,7 @@
     "item": "minecraft:bowl"
   },
   "result": {
-    "item": "candlelight:chicken_teriyaki",
-    "count": 4,
+    "item": "candlelight:chicken_teriyaki"
   },
   "fabric:load_conditions": [
     {

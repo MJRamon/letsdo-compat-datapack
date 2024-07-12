@@ -16,8 +16,7 @@
     "item": "minecraft:bowl"
   },
   "result": {
-    "item": "candlelight:pasta",
-    "count": 4
+    "item": "candlelight:pasta"
   },
   "fabric:load_conditions": [
     {

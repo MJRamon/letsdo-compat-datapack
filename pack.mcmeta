@@ -15,6 +15,22 @@
     {
       "namespace": "candlelight",
       "path": "recipes/pot_cooking/.*"
+    },
+    {
+      "namespace": "candlelight",
+      "path": "recipes/dough.json"
+    },
+    {
+      "namespace": "culturaldelights",
+      "path": "recipes/cooking/raw_pasta.json"
+    },
+    {
+      "namespace": "culturaldelights",
+      "path": "recipes/cooking/wheat_dough.json"
+    },
+    {
+      "namespace": "farmersdelight",
+      "path": "recipes/wheat_dough.*"
     }
   ]}
 }

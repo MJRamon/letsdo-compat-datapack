@@ -6,7 +6,7 @@
       "item": "minecraft:rabbit"
     },
     {
-      "item": "meadow:alpine_salt"
+      "tag": "c:salt"
     }
   ],
   "result": {

@@ -1,15 +1,12 @@
 {
   "type": "farmersdelight:cooking",
-  "experience": 1.0,
-  "result": {
-    "item": "brewinandchewin:fiery_fondue_pot"
-  },
+  "experience": 2.0,
   "ingredients": [
     {
       "item": "farmersdelight:tomato_sauce"
     },
     {
-      "tag": "c:crops/potato"
+      "item": "minecraft:potato"
     },
     {
       "tag": "c:milk"
@@ -27,13 +24,7 @@
   "container": {
     "item": "minecraft:cauldron"
   },
-  "fabric:load_conditions": [
-    {
-      "conditon": "fabric:all_mods_loaded",
-      "values": [
-        "brewinandchewin",
-        "farmersdelight"
-      ]
-    }
-  ]
+  "result": {
+    "item": "brewinandchewin:fiery_fondue_pot"
+  }
 }

@@ -12,9 +12,6 @@
       "tag": "c:milk"
     }
   ],
-  "container": {
-    "item": "minecraft:bowl"
-  },
   "result": {
     "item": "bakery:chocolate_truffle",
     "count": 4

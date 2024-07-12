@@ -19,8 +19,7 @@
     "item": "minecraft:bowl"
   },
   "result": {
-    "item": "candlelight:mushroom_soup",
-    "count": 1
+    "item": "candlelight:mushroom_soup"
   },
   "fabric:load_conditions": [
     {

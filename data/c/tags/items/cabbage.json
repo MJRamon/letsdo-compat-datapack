@@ -2,7 +2,19 @@
   "replace": false,
   "values": [
     {
+      "id": "farmersdelight:cabbage",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbage_leaf",
+      "required": false
+    },
+    {
       "id": "#c:crops/cabbage",
+      "required": false
+    },
+    {
+      "id": "#c:vegetables/cabbage",
       "required": false
     }
   ]
