@@ -3,7 +3,7 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "candlelight:dough"
+      "tag": "c:dough"
     }
   ],
   "container": {

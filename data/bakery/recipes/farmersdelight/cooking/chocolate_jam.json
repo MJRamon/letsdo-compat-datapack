@@ -3,10 +3,10 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "bakery:milk"
+      "tag": "c:milk"
     },
     {
-      "tag": "bakery:chocolate"
+      "tag": "c:chocolate"
     },
     {
       "item": "minecraft:sugar"

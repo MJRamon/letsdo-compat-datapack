@@ -6,10 +6,10 @@
       "item": "candlelight:bolognese"
     },
     {
-      "tag": "candlelight:pasta"
+      "tag": "c:raw_pasta"
     },
     {
-      "tag": "candlelight:cheese"
+      "tag": "c:cheese"
     }
   ],
   "container": {
@@ -18,7 +18,6 @@
   "result": {
     "item": "candlelight:lasagne",
     "count": 6,
-    "experience": 0.15
   },
   "fabric:load_conditions": [
     {

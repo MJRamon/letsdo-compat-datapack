@@ -9,10 +9,10 @@
       "item": "minecraft:cocoa_beans"
     },
     {
-      "tag": "candlelight:milk"
+      "tag": "c:milk"
     },
     {
-      "tag": "candlelight:butter"
+      "tag": "c:butter"
     }
   ],
   "container": {

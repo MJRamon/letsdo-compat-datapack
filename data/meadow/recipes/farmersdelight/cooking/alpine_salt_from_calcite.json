@@ -3,7 +3,7 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "meadow:water_bottles"
+      "tag": "c:water_bottle"
     },
     {
       "item": "minecraft:calcite"

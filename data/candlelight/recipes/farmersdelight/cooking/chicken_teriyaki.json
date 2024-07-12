@@ -9,7 +9,7 @@
       "item": "minecraft:chicken"
     },
     {
-      "tag": "candlelight:crops/cabbage"
+      "tag": "c:cabbage"
     }
   ],
   "container": {
@@ -18,7 +18,6 @@
   "result": {
     "item": "candlelight:chicken_teriyaki",
     "count": 4,
-    "experience": 0.4
   },
   "fabric:load_conditions": [
     {

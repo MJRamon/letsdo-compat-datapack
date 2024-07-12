@@ -3,7 +3,7 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "candlelight:pasta"
+      "tag": "c:raw_pasta"
     },
     {
       "item": "candlelight:tomato_soup"

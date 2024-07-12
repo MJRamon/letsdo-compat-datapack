@@ -3,7 +3,7 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "candlelight:crops/tomato"
+      "tag": "c:tomato"
     },
     {
       "item": "minecraft:sugar"
