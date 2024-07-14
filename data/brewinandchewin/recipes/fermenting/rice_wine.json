@@ -1,0 +1,30 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "container": {
+    "item": "brewinandchewin:tankard"
+  },
+  "experience": 0.6,
+  "fermentingtime": 12000,
+  "fluiditem": {
+    "tag": "c:water_bottles"
+  },
+  "ingredients": [
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "brewinandchewin:rice_wine"
+  },
+  "temperature": 3
+}

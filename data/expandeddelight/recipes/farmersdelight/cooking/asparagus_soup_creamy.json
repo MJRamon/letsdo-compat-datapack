@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:crops/asparagus"
+    },
+    {
+      "tag": "c:salad_ingredients"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:asparagus_soup_creamy"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
+}

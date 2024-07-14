@@ -10,14 +10,13 @@
     },
     {
       "tag": "c:grains"
-    },
-    {
-      "item": "meadow:wooden_bucket"
     }
   ],
+  "container": {
+    "item": "meadow:wooden_bucket"
+  },
   "result": {
-    "item": "meadow:wooden_grain_milk_bucket",
-    "count": 1
+    "item": "meadow:wooden_grain_milk_bucket"
   },
   "fabric:load_conditions": [
     {

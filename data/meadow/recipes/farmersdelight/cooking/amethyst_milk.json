@@ -12,6 +12,9 @@
       "tag": "c:milk"
     }
   ],
+  "container": {
+    "item": "meadow:wooden_bucket"
+  },
   "result": {
     "item": "meadow:wooden_amethyst_milk_bucket",
     "count": 1

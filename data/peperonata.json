@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "c:crops/chili_pepper"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:pasta"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:peperonata"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
+}

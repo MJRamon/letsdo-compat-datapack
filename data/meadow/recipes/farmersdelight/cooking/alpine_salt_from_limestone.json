@@ -3,7 +3,7 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:water_bottle"
+      "tag": "c:water_bottles"
     },
     {
       "item": "meadow:limestone"

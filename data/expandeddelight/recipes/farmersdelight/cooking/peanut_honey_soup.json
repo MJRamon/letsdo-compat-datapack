@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:crops/peanut"
+    },
+    {
+      "tag": "c:crops/peanut"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:peanut_honey_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
+}
