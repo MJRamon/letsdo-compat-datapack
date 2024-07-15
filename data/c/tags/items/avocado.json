@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "culturaldelights:avocado",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cut_avocado",
+      "required": false
+    }
+  ]
+}
