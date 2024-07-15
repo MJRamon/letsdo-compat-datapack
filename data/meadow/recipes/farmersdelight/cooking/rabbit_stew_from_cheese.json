@@ -6,10 +6,7 @@
       "item": "minecraft:baked_potato"
     },
     {
-      "item": "minecraft:cooked_rabbit"
-    },
-    {
-      "item": "minecraft:bowl"
+      "tag": "c:raw_rabbit"
     },
     {
       "item": "minecraft:carrot"
@@ -18,9 +15,12 @@
       "tag": "c:cheese"
     }
   ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
   "result": {
     "item": "minecraft:rabbit_stew",
-    "count": 6
+    "count": 2
   },
   "fabric:load_conditions": [
     {
