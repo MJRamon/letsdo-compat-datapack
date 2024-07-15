@@ -1,0 +1,35 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "brewinandchewin"
+      ]
+    }
+  ],
+  "type": "brewinandchewin:fermenting",
+  "ingredients": [
+    {
+      "tag": "c:foods/vegetables/cucumber"
+    },
+    {
+      "tag": "c:foods/vegetables/cucumber"
+    },
+    {
+      "tag": "c:foods/vegetables/cucumber"
+    },
+    {
+      "tag": "c:foods/vegetables/cucumber"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:pickle",
+    "count": 4
+  },
+  "liquid": {
+    "item": "farmersdelight:apple_cider"
+  },
+  "experience": 0.6,
+  "cookingtime": 12000,
+  "temperature": 3
+}

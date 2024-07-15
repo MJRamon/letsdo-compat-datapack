@@ -1,32 +1,24 @@
 {
-    "type": "farmersdelight:cooking",
-    "result": {
-        "item": "expandeddelight:mac_and_cheese"
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:milk"
     },
-    "ingredients": [
-        {
-            "tag": "c:milk"
-        },
-        {
-            "tag": "c:cheese"
-        },
-        {
-            "tag": "c:pasta"
-        },
-        {
-            "tag": "c:salt_dusts"
-        }
-    ],
-    "container": {
-        "item": "minecraft:bowl"
+    {
+      "tag": "c:cheese"
     },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "expandeddelight",
-                "farmersdelight"
-            ]
-        }
-    ]
+    {
+      "tag": "c:raw_pasta"
+    },
+    {
+      "tag": "c:salt_dusts"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:mac_and_cheese"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
 }

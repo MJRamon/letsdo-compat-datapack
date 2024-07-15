@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "candlelight:all_effects"
+    }
+  ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "candlelight:tomato_soup"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "candlelight",
+        "farmersdelight"
+      ]
+    }
+  ]
+}

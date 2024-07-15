@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "meadow:raw_buffalo_meat"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:water_bottles"
+    }
+  ],
+  "result": {
+    "item": "meadow:cooked_buffalo_meat",
+    "count": 4
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "meadow",
+        "farmersdelight"
+      ]
+    }
+  ]
+}

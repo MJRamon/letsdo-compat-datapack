@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "c:foods/doughs"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "farmersdelight:raw_pasta"
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knives"
+  }
+}

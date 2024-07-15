@@ -1,29 +1,21 @@
 {
-    "type": "farmersdelight:cooking",
-    "result": {
-        "item": "expandeddelight:asparagus_soup"
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:water_bottles"
     },
-    "ingredients": [
-        {
-            "tag": "c:water_buckets"
-        },
-        {
-            "tag": "c:crops/asparagus"
-        },
-        {
-            "tag": "c:salad_ingredients"
-        }
-    ],
-    "container": {
-        "item": "minecraft:bowl"
+    {
+      "tag": "c:crops/asparagus"
     },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "expandeddelight",
-                "farmersdelight"
-            ]
-        }
-    ]
+    {
+      "tag": "c:salad_ingredients"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:asparagus_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
 }

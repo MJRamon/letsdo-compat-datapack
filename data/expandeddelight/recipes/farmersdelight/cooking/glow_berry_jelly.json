@@ -1,26 +1,18 @@
 {
-    "type": "farmersdelight:cooking",
-    "result": {
-        "item": "expandeddelight:glow_berry_jelly"
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
     },
-    "ingredients": [
-        {
-            "item": "minecraft:glow_berries"
-        },
-        {
-            "tag": "c:sugar"
-        }
-    ],
-    "container": {
-        "item": "expandeddelight:glass_jar"
-    },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "expandeddelight",
-                "farmersdelight"
-            ]
-        }
-    ]
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:glow_berry_jelly"
+  },
+  "container": {
+    "item": "expandeddelight:glass_jar"
+  },
+  "cookingtime": 200
 }

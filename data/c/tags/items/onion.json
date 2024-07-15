@@ -1,9 +1,13 @@
 {
-    "replace": false,
-    "values": [
-        {
-            "id": "#c:crops/onion",
-            "required": false
-        }
-    ]
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:onion",
+      "required": false
+    },
+    {
+      "id": "#c:crops/onion",
+      "required": false
+    }
+  ]
 }

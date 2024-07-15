@@ -1,35 +1,27 @@
 {
-    "type": "farmersdelight:cooking",
-    "result": {
-        "item": "expandeddelight:peperonata"
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:vegetables"
     },
-    "ingredients": [
-        {
-            "tag": "c:vegetables"
-        },
-        {
-            "tag": "c:crops/chili_pepper"
-        },
-        {
-            "tag": "c:crops/onion"
-        },
-        {
-            "tag": "c:crops/tomato"
-        },
-        {
-            "tag": "c:pasta"
-        }
-    ],
-    "container": {
-        "item": "minecraft:bowl"
+    {
+      "tag": "c:crops/chili_pepper"
     },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "expandeddelight",
-                "farmersdelight"
-            ]
-        }
-    ]
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:raw_pasta"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:peperonata"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
 }

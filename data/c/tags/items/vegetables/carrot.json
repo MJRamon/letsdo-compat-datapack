@@ -1,13 +1,13 @@
 {
-    "replace": false,
-    "values": [
-        {
-            "id": "minecraft:carrot",
-            "required": false
-        },
-        {
-            "id": "#c:carrot",
-            "required": false
-        }
-    ]
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:carrot",
+      "required": false
+    },
+    {
+      "id": "#c:carrot",
+      "required": false
+    }
+  ]
 }

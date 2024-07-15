@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "candlelight:bolognese"
+    },
+    {
+      "tag": "c:raw_pasta"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "candlelight:lasagne"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "candlelight",
+        "farmersdelight"
+      ]
+    }
+  ]
+}

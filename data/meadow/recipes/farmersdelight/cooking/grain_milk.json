@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:grains"
+    },
+    {
+      "tag": "c:grains"
+    },
+    {
+      "tag": "c:grains"
+    }
+  ],
+  "container": {
+    "item": "meadow:wooden_bucket"
+  },
+  "result": {
+    "item": "meadow:wooden_grain_milk_bucket"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "meadow",
+        "farmersdelight"
+      ]
+    }
+  ]
+}

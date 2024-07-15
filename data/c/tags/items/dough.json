@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "candlelight:dough",
+      "required": false
+    },
+    {
+      "id": "bakery:dough",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:wheat_dough",
+      "required": false
+    }
+  ]
+}

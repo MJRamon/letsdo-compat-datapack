@@ -1,32 +1,24 @@
 {
-    "type": "farmersdelight:cooking",
-    "result": {
-        "item": "expandeddelight:cinnamon_apples"
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "c:water_bottles"
     },
-    "ingredients": [
-        {
-            "tag": "c:water_buckets"
-        },
-        {
-            "item": "minecraft:apple"
-        },
-        {
-            "item": "expandeddelight:ground_cinnamon"
-        },
-        {
-            "tag": "c:sugar"
-        }
-    ],
-    "container": {
-        "item": "minecraft:bowl"
+    {
+      "item": "minecraft:apple"
     },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "expandeddelight",
-                "farmersdelight"
-            ]
-        }
-    ]
+    {
+      "item": "expandeddelight:ground_cinnamon"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:cinnamon_apples"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
 }

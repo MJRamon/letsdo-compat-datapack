@@ -1,21 +1,21 @@
 {
-    "replace": false,
-    "values": [
-        {
-            "id": "#c:crops/beetroot",
-            "required": false
-        },
-        {
-            "id": "#c:crops/carrot",
-            "required": false
-        },
-        {
-            "id": "#c:crops/potato",
-            "required": false
-        },
-        {
-            "id": "#c:crops/coconut",
-            "required": false
-        }
-    ]
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:crops/beetroot",
+      "required": false
+    },
+    {
+      "id": "#c:crops/carrot",
+      "required": false
+    },
+    {
+      "id": "#c:crops/potato",
+      "required": false
+    },
+    {
+      "id": "#c:crops/coconut",
+      "required": false
+    }
+  ]
 }

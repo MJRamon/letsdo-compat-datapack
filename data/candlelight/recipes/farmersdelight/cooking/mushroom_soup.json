@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "tag": "candlelight:red_effect"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:milk"
+    }
+  ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "candlelight:mushroom_soup"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "candlelight",
+        "farmersdelight"
+      ]
+    }
+  ]
+}

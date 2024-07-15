@@ -1,29 +1,21 @@
 {
-    "type": "farmersdelight:cooking",
-    "result": {
-        "item": "expandeddelight:cinnamon_rice"
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/rice"
     },
-    "ingredients": [
-        {
-            "tag": "c:crops/rice"
-        },
-        {
-            "item": "expandeddelight:ground_cinnamon"
-        },
-        {
-            "tag": "c:sugar"
-        }
-    ],
-    "container": {
-        "item": "minecraft:bowl"
+    {
+      "item": "expandeddelight:ground_cinnamon"
     },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "expandeddelight",
-                "farmersdelight"
-            ]
-        }
-    ]
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:cinnamon_rice"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
 }
