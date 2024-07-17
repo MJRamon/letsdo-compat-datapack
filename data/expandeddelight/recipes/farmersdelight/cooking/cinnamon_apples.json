@@ -2,7 +2,7 @@
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "item": "c:water_bottles"
+      "tag": "c:water_bottles"
     },
     {
       "item": "minecraft:apple"
