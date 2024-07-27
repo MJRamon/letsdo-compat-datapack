@@ -2,7 +2,19 @@
   "replace": false,
   "values": [
     {
-      "id": "#c:crops/tomato",
+      "id": "candlelight:tomato",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:tomato",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato",
+      "required": false
+    },
+    {
+      "id": "croptopia:tomato",
       "required": false
     }
   ]
